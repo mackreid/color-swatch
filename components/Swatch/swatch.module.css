@@ -1,0 +1,19 @@
+.swatch {
+    width: 75px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 12px;
+}
+
+.swatch div {
+    width: 100%;
+    height: 75px;
+    border-radius: 75px;
+}
+
+.swatch p {
+    margin: 5px 0;
+    padding: 0;
+}
